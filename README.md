@@ -12,3 +12,7 @@ thư điện tử: phamquocthienlx@gmail.com
 Lập Trình Viên: Phạm Quốc Thiện
 Cách chơi: Bấm phím trắng để nhảy, bấm phím trắng để chơi lại khi bạn thua.
 Nhân vật: Chú Khủng Long muốn vượt qua thử thách.
+
+------------------------------------------
+
+Link thuyết trình youtube: https://youtu.be/yhhZQav9Rzg
